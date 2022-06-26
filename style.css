@@ -130,7 +130,7 @@ select {
 .select::after{
     content: "\25BC";
     position: absolute;
-    background: linear-gradient(120deg, #65a2f6, #8591fd);;
+    background: linear-gradient(120deg, #65a2f6, #8591fd);
     top: 0;
     right: 0;
     padding: 1rem;
@@ -140,6 +140,6 @@ select {
 }
 
 .select:hover::after{
-    background: linear-gradient(120deg, #65a2f6, #8591fd);;
+    background: linear-gradient(120deg, #65a2f6, #8591fd);
     color: white;
 }
